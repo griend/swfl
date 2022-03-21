@@ -1,2 +1,1 @@
-# swfl
-swfl / snowfall - Website www.griend.eu
+# swfl / snowfall - Website www.griend.eu
